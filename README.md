@@ -1,2 +1,2 @@
 # MLT-agent
-MLT-agent for AI Foundaation crousework
+MLT-agent for AI Foundation crousework
